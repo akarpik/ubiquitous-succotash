@@ -1,0 +1,9 @@
+{
+  "inputs": [],
+  "servers": {
+    "task_mAIstro": {
+      "type": "http",
+      "url": "http://localhost:8123/mcp/"
+    }
+  }
+}

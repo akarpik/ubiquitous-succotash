@@ -1,0 +1,6 @@
+langgraph >= 0.6.16
+langchain-core >= 1.2.5
+langchain-community
+langchain-openai
+langchain-ollama
+trustcall
