@@ -94,7 +94,13 @@ python chat.py
 ```
 
 ## 6. Deep research
+### 6.1 Run local studio
+```bash
+cd studio
+langgraph dev
+```
 
+### 6.1 Generate deep reserch and save result to report folder
 ```bash
 python research.py
 ```
