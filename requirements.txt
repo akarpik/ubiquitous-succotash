@@ -1,1 +1,8 @@
 langgraph
+langchain-community
+langchain_tavily
+langchain-openai
+langchain-ollama
+langgraph-api >= 0.6.16
+langgraph-cli[inmem]
+wikipedia

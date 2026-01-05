@@ -86,3 +86,15 @@ python assistant.py
 ```bash
 npx @modelcontextprotocol/inspector --transport http --server-url http://localhost:8123/mcp/
 ```
+
+## 5. task_mAIsto Chat
+Check chat.py for providing Assistant UUID
+```bash
+python chat.py
+```
+
+## 6. Deep research
+
+```bash
+python research.py
+```
